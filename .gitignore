@@ -38,3 +38,6 @@ next-env.d.ts
 #sw stuff
 public/sw.js
 public/workbox-*.js
+
+# storybook
+storybook-static
